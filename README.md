@@ -12,7 +12,7 @@ A simple and responsive Todo application built using React and Vite, styled with
 
 ## Demo
 
-Check out the live demo of the project [here](https://arunkarthik0710-react-todo.netlify.app/).
+Check out the live demo of the project [here](https://sage-alpaca-ff9482.netlify.app/).
 
 ---
 
