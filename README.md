@@ -45,7 +45,7 @@ react-shopping-cart/
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/arunkarthik0712/react-todo.git
+git clone https://github.com/AbiramiManikandan/todo-app.git
 ```
 
 2. Navigate to the project directory:
